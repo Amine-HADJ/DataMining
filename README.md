@@ -3,7 +3,7 @@
 ## Contributors
 
 -   HADJ-HADMRI Mohammed-Amine
--   Thairi EL ALAOUI Youness
+-   TAHIRI EL ALAOUI Youness
 
 ## Introduction
 
