@@ -50,12 +50,7 @@
             "LensSpecification": "(17.0, 40.0, nan, nan)",
             "LensModel": "EF17-40mm f/4L USM",
             "LensSerialNumber": "0000000000"
-        },
-        "Predominant Colors": [
-            "black",
-            "pink",
-            "gray"
-        ]
+        }
     },
     {
         "image_name": "Ferrari250GTBoanoEllenacar_image_2.jpg",
@@ -103,12 +98,7 @@
             "ExposureMode": 1,
             "WhiteBalance": 0,
             "SceneCaptureType": 0
-        },
-        "Predominant Colors": [
-            "gray",
-            "pink",
-            "black"
-        ]
+        }
     },
     {
         "image_name": "Fiat770_image_3.jpg",
@@ -154,12 +144,7 @@
             "ExposureMode": 0,
             "WhiteBalance": 0,
             "SceneCaptureType": 0
-        },
-        "Predominant Colors": [
-            "pink",
-            "black",
-            "gray"
-        ]
+        }
     },
     {
         "image_name": "CampagnaTRex_image_4.jpg",
@@ -200,12 +185,7 @@
             "ISOSpeedRatings": 400,
             "ExposureMode": 0,
             "WhiteBalance": 0
-        },
-        "Predominant Colors": [
-            "brown",
-            "gray",
-            "pink"
-        ]
+        }
     },
     {
         "image_name": "CG1200S_image_5.jpg",
@@ -213,12 +193,7 @@
         "image_format": "JPEG",
         "image_orientation": "Landscape",
         "creation_date": "Unknown",
-        "exif_metadata": {},
-        "Predominant Colors": [
-            "black",
-            "gray",
-            "white"
-        ]
+        "exif_metadata": {}
     },
     {
         "image_name": "VAZ2104_image_6.jpg",
@@ -226,12 +201,7 @@
         "image_format": "JPEG",
         "image_orientation": "Landscape",
         "creation_date": "Unknown",
-        "exif_metadata": {},
-        "Predominant Colors": [
-            "gray",
-            "black",
-            "gray"
-        ]
+        "exif_metadata": {}
     },
     {
         "image_name": "Fiat1500Lcar_image_7.jpg",
@@ -239,12 +209,7 @@
         "image_format": "JPEG",
         "image_orientation": "Landscape",
         "creation_date": "Unknown",
-        "exif_metadata": {},
-        "Predominant Colors": [
-            "gray",
-            "black",
-            "gray"
-        ]
+        "exif_metadata": {}
     },
     {
         "image_name": "Fiat500Giardiniera_image_8.jpg",
@@ -252,12 +217,7 @@
         "image_format": "JPEG",
         "image_orientation": "Landscape",
         "creation_date": "Unknown",
-        "exif_metadata": {},
-        "Predominant Colors": [
-            "gray",
-            "black",
-            "pink"
-        ]
+        "exif_metadata": {}
     },
     {
         "image_name": "Ferrari250P_image_9.jpg",
@@ -265,12 +225,7 @@
         "image_format": "JPEG",
         "image_orientation": "Landscape",
         "creation_date": "Unknown",
-        "exif_metadata": {},
-        "Predominant Colors": [
-            "black",
-            "pink",
-            "gray"
-        ]
+        "exif_metadata": {}
     },
     {
         "image_name": "GeelyKingKong_image_10.jpg",
@@ -320,11 +275,6 @@
             "WhiteBalance": 0,
             "DigitalZoomRatio": "0.0",
             "FocalLengthIn35mmFilm": 52
-        },
-        "Predominant Colors": [
-            "gray",
-            "gray",
-            "black"
-        ]
+        }
     }
 ]

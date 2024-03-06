@@ -1,14 +1,15 @@
 {
     "liked_images": [
-        "CampagnaTRex_image_4.jpg",
-        "VAZ2104_image_6.jpg",
-        "CG1200S_image_5.jpg"
+        "CG1200S_image_5.jpg",
+        "Ferrari250GTBoanoEllenacar_image_2.jpg",
+        "Ferrari250P_image_9.jpg",
+        "CampagnaTRex_image_4.jpg"
     ],
     "most_common_colors": [
         "gray",
         "black",
-        "brown"
+        "pink"
     ],
     "most_common_orientation": "Landscape",
-    "most_common_size": "Medium"
+    "most_common_size": "Large"
 }

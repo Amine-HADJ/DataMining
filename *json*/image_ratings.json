@@ -1,26 +1,26 @@
 [
     {
-        "image_name": "CampagnaTRex_image_4.jpg",
-        "Preference": "like"
-    },
-    {
-        "image_name": "VAZ2104_image_6.jpg",
-        "Preference": "like"
-    },
-    {
         "image_name": "CG1200S_image_5.jpg",
         "Preference": "like"
     },
     {
-        "image_name": "Fiat500Giardiniera_image_8.jpg",
+        "image_name": "Fiat1500Lcar_image_7.jpg",
         "Preference": "dislike"
     },
     {
-        "image_name": "Ferrari250P_image_9.jpg",
+        "image_name": "VAZ2104_image_6.jpg",
         "Preference": "dislike"
+    },
+    {
+        "image_name": "Ferrari250GTBoanoEllenacar_image_2.jpg",
+        "Preference": "like"
     },
     {
         "image_name": "Fiat770_image_3.jpg",
+        "Preference": "dislike"
+    },
+    {
+        "image_name": "Fiat500Giardiniera_image_8.jpg",
         "Preference": "dislike"
     },
     {
@@ -28,15 +28,15 @@
         "Preference": "dislike"
     },
     {
-        "image_name": "Ferrari250GTBoanoEllenacar_image_2.jpg",
-        "Preference": "dislike"
-    },
-    {
-        "image_name": "Fiat1500Lcar_image_7.jpg",
-        "Preference": "dislike"
-    },
-    {
         "image_name": "GeelyKingKong_image_10.jpg",
         "Preference": "dislike"
+    },
+    {
+        "image_name": "Ferrari250P_image_9.jpg",
+        "Preference": "like"
+    },
+    {
+        "image_name": "CampagnaTRex_image_4.jpg",
+        "Preference": "like"
     }
 ]
