@@ -1,6 +1,6 @@
 # DataMining Project
 
-## Date: 
+## Date
 
     March 2024
 
@@ -45,7 +45,7 @@ The following information is stored for each image:
     - Image Exposure Time
     - ...
   
-## Format of the Data
+## Format of Data
 
     Images: the format of the images is .jpg but the code can accept other formats.
     Data: the format of the data is .json.
