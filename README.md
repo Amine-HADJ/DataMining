@@ -1,5 +1,9 @@
 # DataMining Project
 
+## Date: 
+
+    March 2024
+
 ## Contributors
 
 -   HADJ-HADMRI Mohammed-Amine
@@ -22,4 +26,36 @@ The images are collected from the Wikidata Query Service. The images are license
 ## Size of Data
 
 The size of the data is 150 images. 
+
+## Information Stored for Each Image
+
+The following information is stored for each image:
+    - Image URL
+    - Image Title
+    - Image Description
+    - Image Author
+    - Image License
+    - Image Date
+    - Image Tags
+    - Image Size
+    - Image Orientation
+    - Image Colors
+    - Image Camera Model
+    - Image Resolution
+    - Image Exposure Time
+    - ...
+  
+## Format of the Data
+
+    Images: the format of the images is .jpg but the code can accept other formats.
+    Data: the format of the data is .json.
+
+## User Preferences
+
+    User preferences are defined by the user's favorite images. The user can also visualize information related to their own user profile.
+
+
+
+
+
 

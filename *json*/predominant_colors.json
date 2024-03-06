@@ -1,1 +1,82 @@
-[{"Image":"Kharkovchanka_image_1.jpg","Predominant Colors":[[64,52,42],[186,187,190],[102,107,125]]},{"Image":"GeelyKingKong_image_10.jpg","Predominant Colors":[[57,58,47],[199,199,200],[138,134,122]]},{"Image":"CG1200S_image_5.jpg","Predominant Colors":[[131,118,97],[52,48,33],[137,210,229]]},{"Image":"Fiat770_image_3.jpg","Predominant Colors":[[161,159,154],[97,82,65],[226,220,215]]},{"Image":"Fiat500Giardiniera_image_8.jpg","Predominant Colors":[[26,47,45],[198,219,237],[115,138,115]]},{"Image":"VAZ2104_image_6.jpg","Predominant Colors":[[96,106,112],[146,141,145],[56,56,57]]},{"Image":"Fiat1500Lcar_image_7.jpg","Predominant Colors":[[150,171,201],[30,44,31],[80,104,76]]},{"Image":"CampagnaTRex_image_4.jpg","Predominant Colors":[[63,64,43],[202,234,73],[162,163,157]]},{"Image":"Ferrari250GTBoanoEllenacar_image_2.jpg","Predominant Colors":[[62,38,37],[213,212,212],[139,103,98]]},{"Image":"Ferrari250P_image_9.jpg","Predominant Colors":[[19,20,15],[158,157,152],[109,108,102]]}]
+[
+    {
+        "Image": "Kharkovchanka_image_1.jpg",
+        "Predominant Colors": [
+            "black",
+            "pink",
+            "gray"
+        ]
+    },
+    {
+        "Image": "GeelyKingKong_image_10.jpg",
+        "Predominant Colors": [
+            "gray",
+            "pink",
+            "black"
+        ]
+    },
+    {
+        "Image": "CG1200S_image_5.jpg",
+        "Predominant Colors": [
+            "black",
+            "pink",
+            "gray"
+        ]
+    },
+    {
+        "Image": "Fiat770_image_3.jpg",
+        "Predominant Colors": [
+            "pink",
+            "gray",
+            "black"
+        ]
+    },
+    {
+        "Image": "Fiat500Giardiniera_image_8.jpg",
+        "Predominant Colors": [
+            "black",
+            "white",
+            "gray"
+        ]
+    },
+    {
+        "Image": "VAZ2104_image_6.jpg",
+        "Predominant Colors": [
+            "gray",
+            "gray",
+            "gray"
+        ]
+    },
+    {
+        "Image": "Fiat1500Lcar_image_7.jpg",
+        "Predominant Colors": [
+            "gray",
+            "gray",
+            "black"
+        ]
+    },
+    {
+        "Image": "CampagnaTRex_image_4.jpg",
+        "Predominant Colors": [
+            "pink",
+            "black",
+            "gray"
+        ]
+    },
+    {
+        "Image": "Ferrari250GTBoanoEllenacar_image_2.jpg",
+        "Predominant Colors": [
+            "black",
+            "pink",
+            "gray"
+        ]
+    },
+    {
+        "Image": "Ferrari250P_image_9.jpg",
+        "Predominant Colors": [
+            "gray",
+            "black",
+            "gray"
+        ]
+    }
+]

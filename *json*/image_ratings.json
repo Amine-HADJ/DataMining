@@ -1,6 +1,18 @@
 [
     {
+        "Image": "Ferrari250P_image_9.jpg",
+        "Preference": "like"
+    },
+    {
+        "Image": "CampagnaTRex_image_4.jpg",
+        "Preference": "like"
+    },
+    {
         "Image": "Fiat1500Lcar_image_7.jpg",
+        "Preference": "dislike"
+    },
+    {
+        "Image": "Ferrari250GTBoanoEllenacar_image_2.jpg",
         "Preference": "dislike"
     },
     {
@@ -8,35 +20,23 @@
         "Preference": "like"
     },
     {
+        "Image": "Fiat500Giardiniera_image_8.jpg",
+        "Preference": "dislike"
+    },
+    {
+        "Image": "Fiat770_image_3.jpg",
+        "Preference": "dislike"
+    },
+    {
         "Image": "CG1200S_image_5.jpg",
-        "Preference": "like"
+        "Preference": "dislike"
     },
     {
         "Image": "VAZ2104_image_6.jpg",
         "Preference": "dislike"
     },
     {
-        "Image": "Fiat500Giardiniera_image_8.jpg",
-        "Preference": "dislike"
-    },
-    {
-        "Image": "CampagnaTRex_image_4.jpg",
-        "Preference": "like"
-    },
-    {
         "Image": "Kharkovchanka_image_1.jpg",
-        "Preference": "dislike"
-    },
-    {
-        "Image": "Ferrari250GTBoanoEllenacar_image_2.jpg",
-        "Preference": "like"
-    },
-    {
-        "Image": "Ferrari250P_image_9.jpg",
-        "Preference": "like"
-    },
-    {
-        "Image": "Fiat770_image_3.jpg",
         "Preference": "dislike"
     }
 ]

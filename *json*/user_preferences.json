@@ -1,0 +1,14 @@
+{
+    "liked_images": [
+        "Ferrari250P_image_9.jpg",
+        "CampagnaTRex_image_4.jpg",
+        "GeelyKingKong_image_10.jpg"
+    ],
+    "most_common_colors": [
+        "gray",
+        "black",
+        "pink"
+    ],
+    "preferred_orientation": "landscape",
+    "preferred_size": "full"
+}
