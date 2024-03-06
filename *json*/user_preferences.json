@@ -1,14 +1,14 @@
 {
     "liked_images": [
-        "Ferrari250P_image_9.jpg",
         "CampagnaTRex_image_4.jpg",
-        "GeelyKingKong_image_10.jpg"
+        "VAZ2104_image_6.jpg",
+        "CG1200S_image_5.jpg"
     ],
     "most_common_colors": [
         "gray",
         "black",
-        "pink"
+        "brown"
     ],
-    "preferred_orientation": "landscape",
-    "preferred_size": "full"
+    "most_common_orientation": "Landscape",
+    "most_common_size": "Medium"
 }

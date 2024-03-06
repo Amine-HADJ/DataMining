@@ -1,12 +1,9 @@
 [
     {
         "image_name": "Kharkovchanka_image_1.jpg",
-        "image_size": [
-            3579,
-            2500
-        ],
+        "image_size": "Full",
         "image_format": "JPEG",
-        "image_orientation": 1,
+        "image_orientation": "Landscape",
         "creation_date": "2014:12:29 10:33:04",
         "exif_metadata": {
             "GPSInfo": "{0: b'\\x02\\x03\\x00\\x00', 1: 'S', 2: (69.0, 22.68, 0.0), 3: 'E', 4: (76.0, 22.975, 0.0), 5: b'\\x00', 6: 11.0, 7: (7.0, 33.0, 4.0), 8: '10', 9: 'A', 10: '3', 11: 3.8, 18: 'WGS-84', 29: '2014:12:29'}",
@@ -53,16 +50,18 @@
             "LensSpecification": "(17.0, 40.0, nan, nan)",
             "LensModel": "EF17-40mm f/4L USM",
             "LensSerialNumber": "0000000000"
-        }
+        },
+        "Predominant Colors": [
+            "black",
+            "pink",
+            "gray"
+        ]
     },
     {
         "image_name": "Ferrari250GTBoanoEllenacar_image_2.jpg",
-        "image_size": [
-            4752,
-            3168
-        ],
+        "image_size": "Full",
         "image_format": "JPEG",
-        "image_orientation": 1,
+        "image_orientation": "Landscape",
         "creation_date": "2012:01:31 11:26:41",
         "exif_metadata": {
             "GPSInfo": "{0: b'\\x02\\x02\\x00\\x00'}",
@@ -104,16 +103,18 @@
             "ExposureMode": 1,
             "WhiteBalance": 0,
             "SceneCaptureType": 0
-        }
+        },
+        "Predominant Colors": [
+            "gray",
+            "pink",
+            "black"
+        ]
     },
     {
         "image_name": "Fiat770_image_3.jpg",
-        "image_size": [
-            4812,
-            2679
-        ],
+        "image_size": "Full",
         "image_format": "JPEG",
-        "image_orientation": 1,
+        "image_orientation": "Landscape",
         "creation_date": "2012:07:12 14:40:23",
         "exif_metadata": {
             "ResolutionUnit": 2,
@@ -153,16 +154,18 @@
             "ExposureMode": 0,
             "WhiteBalance": 0,
             "SceneCaptureType": 0
-        }
+        },
+        "Predominant Colors": [
+            "pink",
+            "black",
+            "gray"
+        ]
     },
     {
         "image_name": "CampagnaTRex_image_4.jpg",
-        "image_size": [
-            2763,
-            1842
-        ],
+        "image_size": "Large",
         "image_format": "JPEG",
-        "image_orientation": 1,
+        "image_orientation": "Landscape",
         "creation_date": "2007:10:05 08:30:42",
         "exif_metadata": {
             "ResolutionUnit": 2,
@@ -197,71 +200,83 @@
             "ISOSpeedRatings": 400,
             "ExposureMode": 0,
             "WhiteBalance": 0
-        }
+        },
+        "Predominant Colors": [
+            "brown",
+            "gray",
+            "pink"
+        ]
     },
     {
         "image_name": "CG1200S_image_5.jpg",
-        "image_size": [
-            1293,
-            809
-        ],
+        "image_size": "Medium",
         "image_format": "JPEG",
-        "image_orientation": "Unknown",
+        "image_orientation": "Landscape",
         "creation_date": "Unknown",
-        "exif_metadata": {}
+        "exif_metadata": {},
+        "Predominant Colors": [
+            "black",
+            "gray",
+            "white"
+        ]
     },
     {
         "image_name": "VAZ2104_image_6.jpg",
-        "image_size": [
-            1680,
-            946
-        ],
+        "image_size": "Medium",
         "image_format": "JPEG",
-        "image_orientation": "Unknown",
+        "image_orientation": "Landscape",
         "creation_date": "Unknown",
-        "exif_metadata": {}
+        "exif_metadata": {},
+        "Predominant Colors": [
+            "gray",
+            "black",
+            "gray"
+        ]
     },
     {
         "image_name": "Fiat1500Lcar_image_7.jpg",
-        "image_size": [
-            1280,
-            960
-        ],
+        "image_size": "Medium",
         "image_format": "JPEG",
-        "image_orientation": "Unknown",
+        "image_orientation": "Landscape",
         "creation_date": "Unknown",
-        "exif_metadata": {}
+        "exif_metadata": {},
+        "Predominant Colors": [
+            "gray",
+            "black",
+            "gray"
+        ]
     },
     {
         "image_name": "Fiat500Giardiniera_image_8.jpg",
-        "image_size": [
-            1280,
-            960
-        ],
+        "image_size": "Medium",
         "image_format": "JPEG",
-        "image_orientation": "Unknown",
+        "image_orientation": "Landscape",
         "creation_date": "Unknown",
-        "exif_metadata": {}
+        "exif_metadata": {},
+        "Predominant Colors": [
+            "gray",
+            "black",
+            "pink"
+        ]
     },
     {
         "image_name": "Ferrari250P_image_9.jpg",
-        "image_size": [
-            2126,
-            1501
-        ],
+        "image_size": "Large",
         "image_format": "JPEG",
-        "image_orientation": "Unknown",
+        "image_orientation": "Landscape",
         "creation_date": "Unknown",
-        "exif_metadata": {}
+        "exif_metadata": {},
+        "Predominant Colors": [
+            "black",
+            "pink",
+            "gray"
+        ]
     },
     {
         "image_name": "GeelyKingKong_image_10.jpg",
-        "image_size": [
-            1300,
-            975
-        ],
+        "image_size": "Medium",
         "image_format": "JPEG",
-        "image_orientation": 1,
+        "image_orientation": "Landscape",
         "creation_date": "2011:01:17 02:30:07",
         "exif_metadata": {
             "ResolutionUnit": 2,
@@ -305,6 +320,11 @@
             "WhiteBalance": 0,
             "DigitalZoomRatio": "0.0",
             "FocalLengthIn35mmFilm": 52
-        }
+        },
+        "Predominant Colors": [
+            "gray",
+            "gray",
+            "black"
+        ]
     }
 ]
